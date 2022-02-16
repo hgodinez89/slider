@@ -41,4 +41,4 @@ If you want to try a live and free demo of this Hamburger Menu, you can do it, j
 ## Have questions?
 
 If you have questions or just need any help, feel free to write to me 
-<a href="mailto:hgodinez89@hotmail.com">hgodinez89@hotmail.com</a>
+<a href="mailto:hanzelgodinez@gmail.com">hanzelgodinez@gmail.com</a>
